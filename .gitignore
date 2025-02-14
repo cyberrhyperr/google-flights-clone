@@ -1,1 +1,43 @@
+# Dependency directories
+node_modules/
 
+# Environment variables
+.env
+.env.local
+.env.development
+.env.production
+
+# Build output
+build/
+dist/
+
+# Logs and databases
+*.log
+*.sqlite
+
+# IDE and editor files
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# macOS system files
+.DS_Store
+
+# Testing
+coverage/
+
+# Debug logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Local development files
+*.local
+
+# Optional: Exclude specific files or folders
+# For example, if you have a folder for temporary files
+temp/
