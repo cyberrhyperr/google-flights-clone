@@ -1,22 +1,24 @@
 # google-flights-clone-
-Description
+```Description```
 
 Google Flights Clone is a responsive web application built with React and powered by the Sky Scrapper API from RapidAPI. This project mimics the core functionality of Google Flights, allowing users to search for flights by specifying their origin, destination, and travel date. The app fetches real-time flight data from the Sky Scrapper API and displays the results in a clean, user-friendly interface.
 
-Key Features
+```Key Features```
 
 Flight Search: Users can search for flights by entering their origin, destination, and travel date.
 Real-Time Data: The app fetches up-to-date flight information from the Sky Scrapper API.
 Responsive Design: The application is fully responsive and works seamlessly on desktop, tablet, and mobile devices.
 Error Handling: Displays meaningful error messages if the API request fails or no flights are found.
 Loading State: Shows a loading spinner while fetching data to improve user experience.
-Technologies Used
+
+```Technologies Used```
 
 Frontend: React, Material-UI (for styling), Axios (for API requests).
 API: Sky Scrapper API from RapidAPI.
 Environment Management: .env file for securely storing API keys.
 Version Control: Git and GitHub for code management.
-Why This Project?
+
+```Why This Project?```
 
 This project demonstrates my ability to:
 
